@@ -629,7 +629,21 @@ body.preloader-site {
   min-height: 24rem;
 }
 
+.foto7 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/Pic5.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
 
+.foto8 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/Pic6.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
 
 .title-foto {
   font-size: 18pt;
