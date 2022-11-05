@@ -49,6 +49,9 @@ html {
 	object-fit: cover;
   margin: auto;
   }
+  .subtext{
+    margin-top: 3rem !important;
+  }
 
 .hero {
   background-image: '../image/untitled-63.jpg';
